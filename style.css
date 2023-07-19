@@ -1,0 +1,35 @@
+.corpo{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    
+}
+.card {
+    border: none;
+    width: 600px;
+    
+}
+
+.accordion {
+    
+    
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  
+}
+
+.faixa{
+    margin-top: 10px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+embed{
+width: 100%;
+}
+
+
+
+
